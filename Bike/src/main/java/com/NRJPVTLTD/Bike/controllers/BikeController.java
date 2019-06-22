@@ -17,7 +17,7 @@ import com.NRJPVTLTD.Bike.models.Bike;
 import com.NRJPVTLTD.Bike.repositories.BikeRepository;
 
 @RestController
-@RequestMapping("/api/ver1/bike")
+@RequestMapping("/api/ver1/bikes")
 public class BikeController {
 
 	@Autowired
